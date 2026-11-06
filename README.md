@@ -152,5 +152,5 @@ Benjamín Catipillán-Ulloa — TecMedHub · Universidad Austral de Chile, Sede 
 
 ## Licencia
 
-Código: por definir. Datos: CC BY 4.0 (Human Organ Atlas); se descargan aparte y no se
+Código: [MIT](LICENSE). Datos: CC BY 4.0 (Human Organ Atlas); se descargan aparte y no se
 redistribuyen aquí.

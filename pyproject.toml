@@ -1,5 +1,5 @@
 [build-system]
-requires = ["setuptools>=68"]
+requires = ["setuptools>=77"]
 build-backend = "setuptools.build_meta"
 
 [project]
@@ -8,7 +8,8 @@ version = "1.0.0"
 description = "Interfaz tangible para explorar un cerebro real (Human Organ Atlas, HiP-CT) con una sonda sobre un cráneo de plástico"
 readme = "README.md"
 requires-python = ">=3.11,<3.14"  # zarr 3 pide >=3.11; compresso trae binarios hasta 3.13
-# Licencia del código: por definir. Datos: CC BY 4.0 (Human Organ Atlas), se descargan aparte.
+license = "MIT"  # código; los datos (Human Organ Atlas) son CC BY 4.0 y se descargan aparte
+license-files = ["LICENSE"]
 authors = [
   { name = "Nicolás Baier-Quezada" },
   { name = "Vanessa Uribe-Hernández" },
